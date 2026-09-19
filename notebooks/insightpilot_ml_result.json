@@ -1,0 +1,13 @@
+{
+    "total_revenue": 9505775.56,
+    "top_country": "United Kingdom",
+    "top_country_revenue": 8161692.76,
+    "top_product": "REGENCY CAKESTAND 3 TIER",
+    "top_product_revenue": 162885.71,
+    "predicted_next_month_revenue": 739608.44,
+    "recommendations": [
+        "Monitor the United Kingdom market because it contributes the highest total revenue.",
+        "Focus on the top-performing product: REGENCY CAKESTAND 3 TIER.",
+        "Use the predicted next-month revenue of \u20b9739,608.44 for short-term sales planning."
+    ]
+}

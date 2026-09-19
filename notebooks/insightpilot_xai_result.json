@@ -1,0 +1,29 @@
+{
+    "prediction": {
+        "predicted_revenue": 869813.88
+    },
+    "model": "Linear Regression",
+    "features_used": [
+        "Time_Index",
+        "Month_Number",
+        "Previous_Month_Revenue"
+    ],
+    "feature_explanations": [
+        {
+            "feature": "Month_Number",
+            "coefficient": 21784.130589,
+            "direction": "positive"
+        },
+        {
+            "feature": "Time_Index",
+            "coefficient": 21784.130589,
+            "direction": "positive"
+        },
+        {
+            "feature": "Previous_Month_Revenue",
+            "coefficient": -0.317974,
+            "direction": "negative"
+        }
+    ],
+    "explanation": "The model predicts revenue using time-related information and previous month revenue. The coefficients show the direction of each feature's effect in the fitted linear model."
+}

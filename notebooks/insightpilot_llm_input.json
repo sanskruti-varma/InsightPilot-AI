@@ -1,0 +1,37 @@
+{
+    "prediction": {
+        "predicted_revenue": 869813.88
+    },
+    "model": "Linear Regression",
+    "features_used": [
+        "Time_Index",
+        "Month_Number",
+        "Previous_Month_Revenue"
+    ],
+    "feature_explanations": [
+        {
+            "feature": "Time_Index",
+            "coefficient": 21784.130589,
+            "direction": "positive"
+        },
+        {
+            "feature": "Month_Number",
+            "coefficient": 21784.130589,
+            "direction": "positive"
+        },
+        {
+            "feature": "Previous_Month_Revenue",
+            "coefficient": -0.317974,
+            "direction": "negative"
+        }
+    ],
+    "business_insights": [
+        "UK has the highest total revenue.",
+        "REGENCY CAKESTAND 3 TIER is the top product by revenue."
+    ],
+    "recommendations": [
+        "Monitor the UK market because it contributes the highest total revenue.",
+        "Focus on the top-performing product: REGENCY CAKESTAND 3 TIER.",
+        "Use the predicted next-month revenue of \u20b9869,813.88 for short-term sales planning."
+    ]
+}

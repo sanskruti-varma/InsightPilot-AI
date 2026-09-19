@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary notebooks
+Untitled.ipynb
+
+# Local dataset
+data/raw/*.xlsx

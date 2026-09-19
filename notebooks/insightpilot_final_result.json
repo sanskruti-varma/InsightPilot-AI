@@ -1,0 +1,25 @@
+{
+    "project": "InsightPilot AI",
+    "module": "Machine Learning & Business Insights",
+    "ml_model": "Linear Regression",
+    "features": [
+        "Time Index",
+        "Month Number",
+        "Previous Month Revenue"
+    ],
+    "prediction": [
+        {
+            "Predicted Month": "2011-01",
+            "Predicted Revenue": 739608.44
+        }
+    ],
+    "business_insights": [
+        "United Kingdom has the highest total revenue.",
+        "REGENCY CAKESTAND 3 TIER is the top product by revenue."
+    ],
+    "recommendations": [
+        "Monitor the United Kingdom market because it contributes the highest total revenue.",
+        "Focus on the top-performing product: REGENCY CAKESTAND 3 TIER.",
+        "Use the predicted next-month revenue of \u20b9739,608.44 for short-term sales planning."
+    ]
+}
